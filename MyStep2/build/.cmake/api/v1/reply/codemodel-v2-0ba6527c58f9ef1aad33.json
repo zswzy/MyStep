@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Release-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "MyStep",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "MyStep::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MyStep-Release-91b4486e8b606e8e9d41.json",
+					"name" : "MyStep",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/zeyua/Documents/Personal Project/cpp tests/cmake-3.29.1-tutorial-source/cmake-3.29.1-tutorial-source/MyStep/MyStep2/build",
+		"source" : "C:/Users/zeyua/Documents/Personal Project/cpp tests/cmake-3.29.1-tutorial-source/cmake-3.29.1-tutorial-source/MyStep/MyStep2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
