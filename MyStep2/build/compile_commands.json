@@ -1,7 +1,7 @@
 [
 {
   "directory": "C:/Users/zeyua/Documents/Personal Project/cpp tests/cmake-3.29.1-tutorial-source/cmake-3.29.1-tutorial-source/MyStep/MyStep2/build",
-  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE   -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles\\MyStep.dir\\src\\main.cpp.obj -c \"C:\\Users\\zeyua\\Documents\\Personal Project\\cpp tests\\cmake-3.29.1-tutorial-source\\cmake-3.29.1-tutorial-source\\MyStep\\MyStep2\\src\\main.cpp\"",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE   -g -std=gnu++11 -o CMakeFiles\\MyStep.dir\\src\\main.cpp.obj -c \"C:\\Users\\zeyua\\Documents\\Personal Project\\cpp tests\\cmake-3.29.1-tutorial-source\\cmake-3.29.1-tutorial-source\\MyStep\\MyStep2\\src\\main.cpp\"",
   "file": "C:/Users/zeyua/Documents/Personal Project/cpp tests/cmake-3.29.1-tutorial-source/cmake-3.29.1-tutorial-source/MyStep/MyStep2/src/main.cpp",
   "output": "CMakeFiles/MyStep.dir/src/main.cpp.obj"
 }
