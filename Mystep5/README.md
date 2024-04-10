@@ -1,1 +1,1 @@
-Building link libraries using CMake.
+Including additional link libraries using CMake.
