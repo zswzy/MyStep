@@ -1,0 +1,1 @@
+Using CMake to build a simple project and then use VSCode for debugging.
